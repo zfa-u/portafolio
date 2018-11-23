@@ -1,0 +1,8 @@
+[user]
+	name = Professor
+	email = zfa_@hotmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
